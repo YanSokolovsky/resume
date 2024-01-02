@@ -7,7 +7,7 @@ https://github.com/YanSokolovsky
 
 ### __Summary of qualification__ ###
 
-Особенно заинтересован в применении математики в разработке ПО.  Хотел бы занимать позицию  . 
+Particularly interested in applying math to software development.  Would like to hold a position .
 -------------------------------------------------------------------------------------------------------------------------------------
 ### __Hard Skills__ ###
 
