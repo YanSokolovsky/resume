@@ -1,25 +1,27 @@
 # Yan Sokolovsky #
 
 Minsk, Belarus
+
 yansokolovskywork@gmail.com      
 https://github.com/YanSokolovsky
 
-Summary of qualification
+### Summary of qualification ###
 
 Особенно заинтересован в применении математики в разработке ПО.  Хотел бы занимать позицию ……. 
 -------------------------------------------------------------------------------------------------------------------------------------
-Hard Skills
+### Hard Skills ###
 
 Языки: C++98 17(intermidiat), Java(intermidiat), C#(basics).
 Технологии: boost(basics), STL(basics), std(basics), WinAPI(basics), multithreading(basics), MsTest(basics), JUnit(basics).
-Soft Skills
+### Soft Skills ###
 
 Englsish
--------------------------------------------------------------------------------------------------------------------------------
-Education
+------------------------------------------------------------------------------------------------------------------------------------
+### Education ###
 
 Belarusian State University. Faculty of Applied Mathematics and Informatics
-Additional Skills
+------------------------------------------------------------------------------------------------------------------------------------
+### Additional Skills ###
 
 -JavaRush
 -<EPAM> .NET Development
