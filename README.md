@@ -24,7 +24,7 @@ Belarusian State University. Faculty of Applied Mathematics and Informatics
 ### Additional Skills ###
 
 -JavaRush               
--<EPAM> .NET Development
+-EPAM .NET Development
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
