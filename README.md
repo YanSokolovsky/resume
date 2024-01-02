@@ -15,7 +15,7 @@ https://github.com/YanSokolovsky
 Технологии: boost(basics), STL(basics), std(basics), WinAPI(basics), multithreading(basics), MsTest(basics), JUnit(basics).
 ### Soft Skills ###
 
-Englsish
+English
 ------------------------------------------------------------------------------------------------------------------------------------
 ### Education ###
 
