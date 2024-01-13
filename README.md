@@ -16,9 +16,7 @@
     - JUnit5 
     - JavaFX 
     - Jackson 
-    - Maven 
     - Javaluator 
-    - Gradle 
     - Junrar 
 4. C#(Novice)
 
