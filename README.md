@@ -15,7 +15,7 @@
 2. Java(Novice) 
     - JUnit5 
     - JavaFX 
-    - Jackson 
+    - Jackson(xml, json) 
     - Javaluator 
     - Junrar 
 4. C#(Novice)
