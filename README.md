@@ -48,7 +48,7 @@ __Universitys__
 - Belarusian State University(Faculty of Applied Mathematics and Informatics)
 
 __Courses__
-<EPAM>:
+<EPAM:>
 - Version Control with Git
 - IT Warm-Up (2023)
 - .NET Development (2021)
