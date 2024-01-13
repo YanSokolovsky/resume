@@ -18,18 +18,18 @@
     - Junrar 
 4. C#(Novice) 
 
-## Soft skills
+## 😘 Soft skills 😉
 - Sociability
 - Analytical thinking
 - Ability to prioritize tasks
 - Punctuality
 
-## 📚 Languages
+## 📚 Languages 🎓
 - Russian(native) 
 - Belarusian(native) 
 - English(B1+) 
 
-## 🔭 Hobbies and Interests
+## 🔭 Hobbies and Interests 💡
 - Mathematics
 - Programming
 - Table tennis
