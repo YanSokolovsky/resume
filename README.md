@@ -18,8 +18,6 @@
     - Junrar 
 4. C#(Novice)
 
-![](https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg) ![](https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg) ![](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) ![](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg) ![](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg) ![](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)
-
 ## 😘 Soft skills 😉
 - Sociability
 - Analytical thinking
