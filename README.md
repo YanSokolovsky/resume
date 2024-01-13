@@ -3,36 +3,36 @@
 
 ## 🔨 Programming languages, technologies and tools 🔧:
 1. C++(Intermediate)
-   -Unit Testing(Microsoft CppUnitTest)
-   -Boost
-   -WinAPI(multithreading)
-   -QT
-   -STL
+    -Unit Testing(Microsoft CppUnitTest)
+    -Boost
+    -WinAPI(multithreading)
+    -QT
+    -STL
 2. Java(Novice)
-   -JUnit5
-   -JavaFX
-   -Jackson
-   -Maven
-   -Javaluator
-   -Gradle
-   -Junrar
+    -JUnit5
+    -JavaFX
+    -Jackson
+    -Maven
+    -Javaluator
+    -Gradle
+    -Junrar
 4. C#(Novice)
 
 ## Soft skills
--Sociability
--Analytical thinking
--ability to prioritize tasks
--Ability to prioritize
--Punctuality
+   -Sociability
+   -Analytical thinking
+   -ability to prioritize tasks
+   -Ability to prioritize
+   -Punctuality
 
 ## 📚 Languages
--Russian(native)
--Belarusian(native)
--English(B1+)
+   -Russian(native)
+   -Belarusian(native)
+   -English(B1+)
 
 ## 🔭 Hobbies and Interests
--Mathematics
--Programming
--Table tennis
--Chess
+   -Mathematics
+   -Programming
+   -Table tennis
+   -Chess
 -Karting
