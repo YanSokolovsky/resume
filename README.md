@@ -25,6 +25,7 @@
 ## Additional tools
 1. Git
 2. GitHub
+3. GitLab
 ## 😘 Soft skills 😉
 - Sociability
 - Analytical thinking
