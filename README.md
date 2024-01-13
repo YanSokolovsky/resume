@@ -5,7 +5,7 @@
 - yansokolovskywork@gmail.com
 - https://github.com/YanSokolovsky
 
-## 🔨 Programming languages, technologies 🔧:
+## 🔨 Programming languages, technologies and libraries 🔧:
 1. C++(Intermediate) 
     - Unit Testing(Microsoft CppUnitTest) 
     - Boost 
