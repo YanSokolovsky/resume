@@ -25,13 +25,13 @@
 -Punctuality
 
 ## 📚 Languages
-   -Russian(native) 
-   -Belarusian(native) 
-   -English(B1+) 
+-Russian(native) 
+-Belarusian(native) 
+-English(B1+) 
 
 ## 🔭 Hobbies and Interests
-   -Mathematics
-   -Programming
-   -Table tennis
-   -Chess
+-Mathematics
+-Programming
+-Table tennis
+-Chess
 -Karting
