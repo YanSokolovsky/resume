@@ -49,8 +49,8 @@ __Universitys__
 
 __Courses__ 
 
-EPAM:
-- Version Control with Git
-- IT Warm-Up (2023)
-- .NET Development (2021)
+1. EPAM:
+    - Version Control with Git
+    - IT Warm-Up (2023)
+    - .NET Development (2021)
 
