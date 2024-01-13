@@ -31,7 +31,7 @@
 - Ability to prioritize tasks
 - Punctuality
 
-## 📚 Languages 🎓
+## 🎩 Languages 📚
 - Russian(native) 
 - Belarusian(native) 
 - English(B1+) 
@@ -43,7 +43,7 @@
 - Chess
 - Karting
 
-## education and courses
+## 📖 Education and courses :atom:
 __Universitys__ 
 - Belarusian State University(Faculty of Applied Mathematics and Informatics)
 
