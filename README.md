@@ -44,11 +44,12 @@
 - Karting
 
 ## education and courses
-__Universitys__
+__Universitys__ 
 - Belarusian State University(Faculty of Applied Mathematics and Informatics)
 
-__Courses__
-<EPAM:>
+__Courses__ 
+
+EPAM:
 - Version Control with Git
 - IT Warm-Up (2023)
 - .NET Development (2021)
